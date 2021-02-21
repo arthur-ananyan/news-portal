@@ -8,3 +8,4 @@ News without the main category is not allowed.
 You shold run migrations before you run project localy to generate db schemas.
 
 The ptoject can be viewed live at http://35.204.14.233:8000/
+The project admin panel url at http://35.204.14.233:8000/admin
